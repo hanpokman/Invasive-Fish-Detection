@@ -52,9 +52,12 @@ Back in 2023, as part of our ISEF submission, we built an autonomous boat that u
 
 **DISTRIBUTION OF DATASET**
 
-*Insert your ISEF dataset distribution photo here showing class balance, length distributions, species breakdowns, field collection sites, etc.*
+<img width="960" height="540" alt="Fish Species Classification based on Fish Characteristics (5)" src="https://github.com/user-attachments/assets/110b1e9d-c55d-4099-8900-fec8ae155cb6" />
 
 
+<img width="960" height="540" alt="Fish Species Classification based on Fish Characteristics (6)" src="https://github.com/user-attachments/assets/7d57eecb-8146-4dbc-b3ca-1a031ca3a948" />
+
+<img width="960" height="540" alt="Fish Species Classification based on Fish Characteristics (7)" src="https://github.com/user-attachments/assets/12661f2f-8291-4a2a-ace7-b46b4a637287" />
 ---
 
 ## 🚀 Getting Started (Reconstruction Version)
@@ -137,6 +140,27 @@ invasive-fish-spy/
 ---
 
 ## 🔬 Hyperparameter Testing Results
+Pipeline
+
+<img width="960" height="540" alt="Fish Species Classification based on Fish Characteristics" src="https://github.com/user-attachments/assets/834ca77c-5397-4819-b53b-c88576e8d5e5" />
+
+Testing different proportions of dataset splitting
+
+<img width="960" height="540" alt="Fish Species Classification based on Fish Characteristics (2)" src="https://github.com/user-attachments/assets/91543baa-6cb8-4932-8d9e-358b798724bf" />
+
+Initial Training Curve
+
+<img width="387" height="348" alt="Screenshot 2026-05-14 at 12 43 11 AM" src="https://github.com/user-attachments/assets/13a8ebaf-3afd-49c8-9bf3-765f23c0b686" />
+
+Results of Hyperparameter Searching
+
+<img width="960" height="540" alt="Fish Species Classification based on Fish Characteristics (3)" src="https://github.com/user-attachments/assets/abca6bcf-2815-4e7b-9bb2-d4bdabe97f53" />
+
+Improved Results
+
+<img width="960" height="540" alt="Fish Species Classification based on Fish Characteristics (4)" src="https://github.com/user-attachments/assets/4a9edd36-69eb-464a-b14f-4955241df8bf" />
+
+
 
 
 ---
