@@ -114,8 +114,6 @@ Hidden Layer 2: 32 nodes + ReLU + Dropout(0.1)
 Output Layer: 1 node + Sigmoid (probability invasive)
 ```
 
-**Why this architecture?** Because it worked. We tried 64 units, 128 units, 3 hidden layers, no dropout, different activations... this combo gave 89% validation accuracy on the original dataset while being small enough to run on the boat's limited hardware. This was a key requirement for ISEF - efficient edge deployment.
-
 ---
 
 ## 📁 Project Structure (Reconstructed)
