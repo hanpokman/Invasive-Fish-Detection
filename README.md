@@ -47,7 +47,6 @@ Back in 2023, as part of our ISEF submission, we built an autonomous boat that u
 
 ---
 
-```
 
 
 **DISTRIBUTION OF DATASET**
